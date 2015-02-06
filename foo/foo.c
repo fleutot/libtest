@@ -3,5 +3,5 @@
 
 void foodo(void)
 {
-    printf("In foo\n");
+    printf("In foo, modified\n");
 }
